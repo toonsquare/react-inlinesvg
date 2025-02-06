@@ -1,4 +1,4 @@
-export const CACHE_NAME = 'react-inlinesvg';
+export const CACHE_NAME = 'tooning-plus-ed-resource';
 export const CACHE_MAX_RETRIES = 10;
 
 export const STATUS = {
