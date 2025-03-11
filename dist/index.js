@@ -41,7 +41,7 @@ var import_react2 = __toESM(require("react"));
 var import_react_from_dom2 = __toESM(require("react-from-dom"));
 
 // src/config.ts
-var CACHE_NAME = "tooning-plus-ed-resource";
+var CACHE_NAME = "tooning-plus-ed-static";
 var CACHE_MAX_RETRIES = 10;
 var STATUS = {
   IDLE: "idle",

@@ -16,7 +16,7 @@ import React, {
 import convert2 from "react-from-dom";
 
 // src/config.ts
-var CACHE_NAME = "tooning-plus-ed-resource";
+var CACHE_NAME = "tooning-plus-ed-static";
 var CACHE_MAX_RETRIES = 10;
 var STATUS = {
   IDLE: "idle",
